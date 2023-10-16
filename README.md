@@ -47,7 +47,7 @@
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-git clone https://github.com/alibigdeli/Django-CBV-DRF-ViewSet-TodoApp
+git clone https://github.com/mahdighadiriii/Django-CBV-DRF-ViewSet-TodoApp
 ```
 
 ### Getting ready
