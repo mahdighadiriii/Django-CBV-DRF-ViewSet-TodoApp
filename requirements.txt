@@ -3,3 +3,4 @@ djangorestframework>3.12,<3.13
 django-cors-headers
 markdown
 django-filter 
+black
