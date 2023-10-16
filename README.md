@@ -15,7 +15,6 @@
 
 ### Overview
 - [Overview](#overview)
-- [Demo](#demo)
 - [Features](#features)
 - [Setup](#setup)
 - [Getting ready](#getting-ready)
