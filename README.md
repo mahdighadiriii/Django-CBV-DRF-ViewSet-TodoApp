@@ -1,7 +1,3 @@
-# Django-CBV-DRF-ViewSet-TodoApp
-
-
- A Todo app Django project based on Django Rest Framework with Class Based Views and ViewSet
 <h1 align="center">Django Class Based Views RestFramework (ViewSet) Todo App</h1>
 <h3 align="center">A simple todo app project with class based views restframework with ViewSet classess for learning</h3>
 <p align="center">
