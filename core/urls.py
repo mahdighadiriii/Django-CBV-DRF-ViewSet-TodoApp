@@ -25,6 +25,6 @@ def redirectToApp(request):
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("", redirectToApp, name="index"),
-    #path("todo/", include("todo.urls")),
+    path("todo/", include("todo.urls")),
     path("accounts/", include("accounts.urls")),
 ]
